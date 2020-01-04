@@ -78,10 +78,10 @@ a {
 
 .con .shlogo {
     position: relative;
-    width: 480px;
-    height: 120px;
+    width: 200px;
+    height: 200px;
     margin: 20px auto 50px auto;
-    background: url(https://i.loli.net/2019/12/11/y197LWBTbUEpYPF.png) no-repeat center/cover;
+    background: url(ds.png) no-repeat center/cover;
 }
 
 .con .shlogo a {
